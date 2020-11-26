@@ -1,5 +1,12 @@
 homepage: "https://www.getquanty.com"
 documentation: "https://getquanty.zendesk.com/hc/fr/articles/360016082693-Installer-le-script-GetQuanty-via-Google-Tag-Manager-GTM-"
 versions:
+  # Latest version
+  - sha: aa139c971266d4d7d0e704f06e699e2ded4ae1c9
+    changeNotes: |2
+      Fix cookie set
+      Fix segment filter
+      Change logo
+  # Older versions
   - sha: 285c6898d2e82f7b13fba95e8dba89630068afa8
     changeNotes: Initial release.
