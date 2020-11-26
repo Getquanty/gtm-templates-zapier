@@ -9,7 +9,7 @@ How to use this template
 
 This is the first version of the Getquanty script template for Google Tag Manager. You need to be a Getquanty/Livequanty user to use this template.
 
-1. Download the package here https://github.com/Getquanty/gtm-templates
+1. Download the package here https://github.com/Getquanty/gtm-templates-zapier
 2. Log in to Google Tag Manager https://tagmanager.google.com/
 3. Go to the Templates menu
 4. Create a new template
@@ -25,4 +25,6 @@ This is the first version of the Getquanty script template for Google Tag Manage
 13. Save and submit your version.
 
 
-For Getquanty users, you have access to the full tutorial here : https://getquanty.zendesk.com/hc/fr/articles/360016082693-Installer-le-script-GetQuanty-via-Google-Tag-Manager-GTM-
+For Getquanty users, you have access to the full tutorials here :
+How to use Getquanty with GTM : https://getquanty.zendesk.com/hc/fr/articles/360016082693-Installer-le-script-GetQuanty-via-Google-Tag-Manager-GTM-
+How to create real-time alerts with Getquanty and Zapier : https://getquanty.zendesk.com/hc/fr/restricted?return_to=https%3A%2F%2Fgetquanty.zendesk.com%2Fhc%2Ffr%2Farticles%2F360012107539-Support-documentation-for-Zapier-integration
